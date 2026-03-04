@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+main{
+    flex: 1;
+
+}
+
+h1{
+    color: rgb(0, 77, 10);
+}
+
+p{
+    font-size: 20px;
+}
+
+header{
+    background-color: rgb(0, 0, 0);
+    padding: 4px;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+footer{
+    background-color: rgb(0, 0, 0);
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 4px;
+}
